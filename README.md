@@ -1,9 +1,20 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaRajSinghRanawat&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaRajSinghRanawat&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaRajSinghRanawat&theme=chartreuse_dark&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRajSinghRanawat&layout=compact&theme=chartreuse-dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaRajSinghRanawat&theme=chartreuse_dark&utcOffset=8" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRajSinghRanawat&layout=compact&theme=chartreuse-dark" width="100%" />
+</p>
 
 # 👨‍💻 Aditya Raj Singh Ranawat
 **Computer Science Student | Full-Stack Developer**
