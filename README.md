@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="50%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="50%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="50%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaRajSinghRanawat&theme=chartreuse_dark&utcOffset=8" width="50%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaRajSinghRanawat&theme=chartreuse_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaRajSinghRanawat&theme=chartreuse_dark&utcOffset=8" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRajSinghRanawat&layout=compact&theme=chartreuse-dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRajSinghRanawat&layout=compact&theme=chartreuse-dark" width="49%" />
 </p>
 
 # 👨‍💻 Aditya Raj Singh Ranawat
